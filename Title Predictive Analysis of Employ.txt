@@ -1,0 +1,46 @@
+Key Features:
+Reason_1 to Reason_4: Binary flags for grouped absence reasons.
+
+Month Value: Numeric representation of the month.
+
+Day Of the Week: Likely 1–7 (Monday–Sunday).
+
+Transportation Expense, Distance to Work, Age, BMI, etc.: Numeric variables.
+
+Absenteeism Time in Hours: Target variable indicating hours missed.
+
+Suggested Analyses and Tableau Charts:
+1. Absence Trends Over Time
+Line Chart: Show average absenteeism by month or day of the week.
+
+Heatmap: Month vs. Day of Week with absenteeism intensity.
+
+2. Absenteeism by Reason
+Stacked Bar Chart: Sum of absenteeism hours by Reason_1 to Reason_4.
+
+Tree Map: Visualize proportion of absences by reason group.
+
+3. Employee Demographics & Absenteeism
+Boxplots:
+
+Age vs. Absenteeism Time
+
+BMI vs. Absenteeism Time
+
+Histogram: Distribution of absenteeism hours.
+
+4. Correlation & Relationships
+Scatter Plots:
+
+Distance to Work vs. Absenteeism
+
+Transportation Expense vs. Absenteeism
+
+Dual Axis Charts: Compare workload and absenteeism trends.
+
+5. Categorical Analysis
+Bar Charts:
+
+Education level vs. average absenteeism.
+
+Number of children or pets vs. absenteeism.
